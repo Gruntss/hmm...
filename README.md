@@ -1,7 +1,1 @@
 ![gio](https://github.com/Gruntss/jajaajja/assets/159542316/1c27dd7f-fa12-483b-8d1c-cd222b142388)
-![cat-1](https://github.com/Gruntss/jajaajja/assets/159542316/df54beef-2b2a-4ac2-aa26-ed80a43e47d9)
-![cat-2](https://github.com/Gruntss/jajaajja/assets/159542316/812f7376-8ece-4c6b-a0c2-11ccbdbfb9a1)
-![cat-3](https://github.com/Gruntss/jajaajja/assets/159542316/89adfaed-1d41-41f1-b66f-a97b000f6de6)
-![cat-4](https://github.com/Gruntss/jajaajja/assets/159542316/c30cfa3a-ec3c-4c58-a461-1c2f428ba8a8)
-![cat-5](https://github.com/Gruntss/jajaajja/assets/159542316/a7edf15e-5c4f-4c2e-b55f-83e21aab549b)
-![cat-yes](https://github.com/Gruntss/jajaajja/assets/159542316/92e0e831-851f-42c5-ba8e-92768692f38b)
