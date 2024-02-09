@@ -43,10 +43,10 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "Are you sure?",
+    "sure ka r'yan?",
     "Please po",
-    "Don't do this to me :(",
-    "You're breaking my heart",
+    "wagggggggg :(",
+    "ang sakit mo",
     "Aym gonna cry na...",
   ];
 
