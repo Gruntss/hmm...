@@ -31,6 +31,8 @@ function handleYesClick() {
   titleElement.innerHTML = "Yayyy!! :3";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
+  responseMessage.textContent = "❤️ Yay! I knew you would say yes! ❤️";
+  responseMessage.style.color = "red";
 }
 
 function resizeYesButton() {
@@ -62,7 +64,4 @@ function changeImage(image) {
 function updateNoButtonText() {
   noButton.innerHTML = generateMessage(noCount);
 }
-  yesButton.addEventListener("click", () => {
-  responseMessage.textContent = "❤️ Yay! I knew you would say yes! ❤️";
-  responseMessage.style.color = "red";
-}
+
