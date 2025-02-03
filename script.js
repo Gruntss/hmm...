@@ -1,3 +1,4 @@
+
 "use strict";
 
 const titleElement = document.querySelector(".title");
@@ -60,4 +61,8 @@ function changeImage(image) {
 
 function updateNoButtonText() {
   noButton.innerHTML = generateMessage(noCount);
+}
+  yesButton.addEventListener("click", () => {
+  responseMessage.textContent = "❤️ Yay! I knew you would say yes! ❤️";
+  responseMessage.style.color = "red";
 }
